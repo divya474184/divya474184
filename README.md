@@ -13,6 +13,8 @@
 
 <div align="center">
     <img height="180em" src="https://git-hub-streak-stats.vercel.app?user=harshkushwaha7x&theme=soft-green&hide_border=true)](https://git.io/streak-stats)"/>
+    <img height="180em" src="https://git-hub-streak-stats.vercel.app?user=harshkushwaha7x&theme=soft-green&hide_border=true)](https://git.io/streak-stats)"/>
+
 </div>
 
 ---
