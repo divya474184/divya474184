@@ -1,4 +1,4 @@
-## 📈 GitHub Analytics
+<h2 style="color:white;">📈 GitHub Analytics</h2>
 
 <div align="center" style="color:white;">
   <a href="https://github.com/harshkushwaha7x">
@@ -7,7 +7,7 @@
   </a>
 </div>
 
-## 🔥 Streak Stats
+<h2 style="color:white;">🔥 Streak Stats</h2>
 
 <div align="center" style="color:white;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkushwaha7x&theme=transparent&hide_border=true" alt="GitHub Streak"/>
