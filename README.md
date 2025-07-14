@@ -12,7 +12,7 @@
 ## 🔥 Streak Stats
 
 <div align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkushwaha7x&theme=blue-green&hide_border=true"/>
+    <img height="180em" src="https://git-hub-streak-stats.vercel.app/?user=harshkushwaha7x&theme=transparent&hide_border=true(https://git.io/streak-stats)"/>
 
 </div>
 
