@@ -11,11 +11,11 @@
 
 **AI Engineer | Full Stack Developer | RAG & LLM Systems | Open-Source Contributor**
 
-- 💡 Building intelligent, scalable products at the intersection of AI and full-stack development  
-- 🌐 Working with LangChain, LangGraph, RAG pipelines, and Azure OpenAI  
-- 🤝 Open to collaborating on AI/ML systems, full-stack applications, and cloud/DevOps projects  
-- 📚 Currently diving deeper into LangGraph agentic workflows, distributed systems, and advanced GenAI architectures  
-- 💬 Ask me about LLMs, Next.js, FastAPI, RAG pipelines, and system design  
+💡 Building intelligent, scalable products at the intersection of AI and full-stack development  
+🌐 Working with LangChain, LangGraph, RAG pipelines, and Azure OpenAI  
+🤝 Open to collaborating on AI/ML systems, full-stack applications, and cloud/DevOps projects  
+📚 Currently diving deeper into LangGraph agentic workflows, distributed systems, and advanced GenAI architectures  
+💬 Ask me about LLMs, Next.js, FastAPI, RAG pipelines, and system design  
 
 ---
 
